@@ -1,0 +1,23 @@
+##
+## EPITECH PROJECT, 2020
+## include_file.txt
+## File description:
+## include files
+##
+
+#include "defender.h"
+#include <SFML/Graphics/RenderWindow.h>
+#include <stdlib.h>
+#include <SFML/Graphics.h>
+#include <SFML/Audio/SoundBuffer.h>
+#include <SFML/Audio/Sound.h>
+#include <SFML/Audio/Export.h>
+#include <SFML/Audio/SoundStatus.h>
+#include <SFML/Graphics/Export.h>
+#include <time.h>
+#include <SFML/System/Time.h>
+#include <SFML/System/Export.h>
+#include <SFML/System/Types.h>
+#include <stdio.h>
+#include <SFML/Audio/SoundStatus.h>
+#include <SFML/Audio/Music.h>
